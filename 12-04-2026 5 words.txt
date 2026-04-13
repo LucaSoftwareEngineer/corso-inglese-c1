@@ -1,0 +1,5 @@
+i hope = io spero
+feeling good = stare bene
+talk = parlo
+about = di
+useful = utile
